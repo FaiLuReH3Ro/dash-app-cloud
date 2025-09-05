@@ -10,7 +10,7 @@ Click on the link below to access the dashboard.
 
 > Plots might take a while to update since the dataset is quite large
 
-👉 [Stack Overflow Survey Dashboard](https://dev-survey-dashboard.onrender.com/)
+👉 [Stack Overflow Survey Dashboard](https://failureh3ro-developer-survey-results.share.connect.posit.cloud/)
 
 ## 🚀 Objectives
 
